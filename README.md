@@ -8,7 +8,7 @@
 
 **A curated collection of research papers and resources on memory mechanisms in Large Language Model (LLM) agents**
 
-[📚 Papers](#papers) • [🤝 Contributing](#contributing) • [📄 License](#license)
+[📚 Papers](#-papers) • [🤝 Contributing](#-contributing) • [📄 License](#-license)
 
 </div>
 
