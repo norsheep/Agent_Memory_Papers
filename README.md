@@ -29,23 +29,23 @@ Out of personal interest and learning needs, this repository is dedicated to col
 
 ## 📚 Papers
 
-### 🔄 Memory Architectures
+### 📖 Memory Agent Survey
+- 2024-04-21 [A Survey on the Memory Mechanism of Large Language Model based Agents](https://arxiv.org/abs/2404.13501)
+- 2025-05-27 [Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions](http://arxiv.org/abs/2505.00675)
+### 🔄 Memory Architectures (To be classified)
+- 2023-05-21 [MemoryBank: Enhancing Large Language Models with Long-Term Memory](http://arxiv.org/abs/2305.10250)
+- 2024-05-26 [MEMORYLLM: Towards Self-Updatable Large Language Models](http://arxiv.org/abs/2402.04624)
+- 2025-04-09 [MemoRAG: Boosting Long Context Processing with Global Memory-Enhanced Retrieval Augmentation](http://arxiv.org/abs/2409.05591)
+- 2025-04-28 [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](http://arxiv.org/abs/2504.19413)
+- 2025-06-16 [G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems](http://arxiv.org/abs/2506.07398)
+- 2025-08-05 [MemOS: A Memory OS for AI System](http://arxiv.org/abs/2507.03724)
+- 2025-09-30 [Mem-α: Learning Memory Construction via Reinforcement Learning](http://arxiv.org/abs/2509.25911)
+- 2025-10-08 [Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning](http://arxiv.org/abs/2508.19828)
+- 2025-10-08 [A-MEM: Agentic Memory for LLM Agents](http://arxiv.org/abs/2502.12110)
+- 2025-10-09 [Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory](http://arxiv.org/abs/2508.09736)
+- 2025-10-12 [MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](http://arxiv.org/abs/2509.24704)
 
-*Coming soon...*
-
-### 💾 Long-term Memory
-
-*Coming soon...*
-
-### ⚡ Short-term Memory
-
-*Coming soon...*
-
-### 🔀 Memory Retrieval
-
-*Coming soon...*
-
-### 🧪 Memory Applications
+### 🧪 Others
 
 *Coming soon...*
 
