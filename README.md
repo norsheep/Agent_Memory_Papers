@@ -38,6 +38,7 @@ Out of personal interest and learning needs, this repository is dedicated to col
 - 2024-05-26 [MEMORYLLM: Towards Self-Updatable Large Language Models](http://arxiv.org/abs/2402.04624)
 - 2024-09-11 [Agent Workflow Memory](https://arxiv.org/abs/2409.07429)  retrieval-based, high-level experiences
 - 2025-02-01 [M+: Extending MemoryLLM with Scalable Long-Term Memory](https://arxiv.org/abs/2502.00592)  latent memory
+- 2025-02-17 [A-MEM: Agentic Memory for LLM Agents](http://arxiv.org/abs/2502.12110)
 - 2025-04-09 [MemoRAG: Boosting Long Context Processing with Global Memory-Enhanced Retrieval Augmentation](http://arxiv.org/abs/2409.05591)
 - 2025-04-09 [SkillWeaver: Web Agents can Self-Improve by Discovering and Honing Skills](https://arxiv.org/abs/2504.07079)  condensed skills - reusable APIs
 - 2025-04-28 [Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory](http://arxiv.org/abs/2504.19413)
@@ -48,9 +49,9 @@ Out of personal interest and learning needs, this repository is dedicated to col
 - 2025-07-08 [Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving](https://arxiv.org/abs/2507.06229) retrieval-based, step-level, cross-domain
 - 2025-08-05 [MemOS: A Memory OS for AI System](http://arxiv.org/abs/2507.03724)
 - 2025-08-08 [Memp: Exploring agent procedural memory](https://arxiv.org/abs/2508.06433)  retrieval-based, high-level experiences
+- 2025-09-27 [Look Back to Reason Forward: Revisitable Memory for Long-Context LLM Agents](https://arxiv.org/abs/2509.23040)
 - 2025-09-30 [Mem-α: Learning Memory Construction via Reinforcement Learning](http://arxiv.org/abs/2509.25911)
 - 2025-10-08 [Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning](http://arxiv.org/abs/2508.19828)
-- 2025-10-08 [A-MEM: Agentic Memory for LLM Agents](http://arxiv.org/abs/2502.12110)
 - 2025-10-09 [Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory](http://arxiv.org/abs/2508.09736)
 - 2025-10-12 [MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](http://arxiv.org/abs/2509.24704) latent, memory evolving
 
