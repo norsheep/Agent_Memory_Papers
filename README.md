@@ -49,11 +49,17 @@ Out of personal interest and learning needs, this repository is dedicated to col
 - 2025-07-08 [Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving](https://arxiv.org/abs/2507.06229) retrieval-based, step-level, cross-domain
 - 2025-08-05 [MemOS: A Memory OS for AI System](http://arxiv.org/abs/2507.03724)
 - 2025-08-08 [Memp: Exploring agent procedural memory](https://arxiv.org/abs/2508.06433)  retrieval-based, high-level experiences
+- 2025-09-19 [Latent learning: episodic memory complements parametric learning by enabling flexible reuse of experiences](https://arxiv.org/abs/2509.16189)  
 - 2025-09-27 [Look Back to Reason Forward: Revisitable Memory for Long-Context LLM Agents](https://arxiv.org/abs/2509.23040)
 - 2025-09-30 [Mem-α: Learning Memory Construction via Reinforcement Learning](http://arxiv.org/abs/2509.25911)
 - 2025-10-08 [Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning](http://arxiv.org/abs/2508.19828)
 - 2025-10-09 [Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory](http://arxiv.org/abs/2508.09736)
 - 2025-10-12 [MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](http://arxiv.org/abs/2509.24704) latent, memory evolving
+- 2025-10-09 [Learning on the Job: An Experience-Driven, Self-Evolving Agent for Long-Horizon Tasks](https://arxiv.org/abs/2510.08002)
+- 2025-10-10 [Preference-Aware Memory Update for Long-Term LLM Agents](https://arxiv.org/abs/2510.09720)  personalized memory（re-prompt）
+- 2025-10-14 [Memory as Action: Autonomous Context Curation for Long-Horizon Agentic Tasks](https://arxiv.org/abs/2510.12635)
+- 2025-10-20 [MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems](https://arxiv.org/abs/2510.17281)
+- 2025-10-21 [LightMem: Lightweight and Efficient Memory-Augmented Generation](https://arxiv.org/abs/2510.18866)
 
 
 ### 🧪 Others
