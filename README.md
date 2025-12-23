@@ -32,6 +32,13 @@ Out of personal interest and learning needs, this repository is dedicated to col
 ### 📖 Memory Agent Survey
 - 2024-04-21 [A Survey on the Memory Mechanism of Large Language Model based Agents](https://arxiv.org/abs/2404.13501)
 - 2025-05-27 [Rethinking Memory in AI: Taxonomy, Operations, Topics, and Future Directions](http://arxiv.org/abs/2505.00675)
+- 2025-12-15  [Memory in the Age of AI Agents: A Survey](https://arxiv.org/abs/2512.13564)
+
+### 📖 Multimodel Memory
+- 2025-10-09 [Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory](http://arxiv.org/abs/2508.09736)
+- 2025-11-14 [VisMem: Latent Vision Memory Unlocks Potential of Vision-Language Models](http://arxiv.org/abs/2511.11007)
+- 2025-12-03 [MemVerse: Multimodal Memory for Lifelong Learning Agents](http://arxiv.org/abs/2512.03627)
+
 ### 🔄 Memory Architectures (To be classified)
 - 2023-05-21 [MemoryBank: Enhancing Large Language Models with Long-Term Memory](http://arxiv.org/abs/2305.10250) retrieval-based
 - 2023-08-20 [ExpeL: LLM Agents Are Experiential Learners](https://arxiv.org/abs/2308.10144) retrieval-based, task-level
@@ -47,13 +54,13 @@ Out of personal interest and learning needs, this repository is dedicated to col
 - 2025-06-27 [Parametric Retrieval Augmented Generation](https://arxiv.org/abs/2501.15915)
 - 2025-07-03 [MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/abs/2507.02259)  RL, long-context inputs
 - 2025-07-08 [Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving](https://arxiv.org/abs/2507.06229) retrieval-based, step-level, cross-domain
+- 2025-07-10 [MIRIX: Multi-Agent Memory System for LLM-Based Agents](http://arxiv.org/abs/2507.07957)
 - 2025-08-05 [MemOS: A Memory OS for AI System](http://arxiv.org/abs/2507.03724)
 - 2025-08-08 [Memp: Exploring agent procedural memory](https://arxiv.org/abs/2508.06433)  retrieval-based, high-level experiences
 - 2025-09-19 [Latent learning: episodic memory complements parametric learning by enabling flexible reuse of experiences](https://arxiv.org/abs/2509.16189)  
 - 2025-09-27 [Look Back to Reason Forward: Revisitable Memory for Long-Context LLM Agents](https://arxiv.org/abs/2509.23040)
 - 2025-09-30 [Mem-α: Learning Memory Construction via Reinforcement Learning](http://arxiv.org/abs/2509.25911)
 - 2025-10-08 [Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning](http://arxiv.org/abs/2508.19828)
-- 2025-10-09 [Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory](http://arxiv.org/abs/2508.09736)
 - 2025-10-12 [MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](http://arxiv.org/abs/2509.24704) latent, memory evolving
 - 2025-10-09 [Learning on the Job: An Experience-Driven, Self-Evolving Agent for Long-Horizon Tasks](https://arxiv.org/abs/2510.08002)
 - 2025-10-10 [Preference-Aware Memory Update for Long-Term LLM Agents](https://arxiv.org/abs/2510.09720)  personalized memory（re-prompt）
