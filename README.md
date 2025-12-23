@@ -35,6 +35,7 @@ Out of personal interest and learning needs, this repository is dedicated to col
 - 2025-12-15  [Memory in the Age of AI Agents: A Survey](https://arxiv.org/abs/2512.13564)
 
 ### 📖 Multimodel Memory
+- 2025-07-07 [Towards General Continuous Memory for Vision-Language Models](http://arxiv.org/abs/2505.17670)
 - 2025-10-09 [Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory](http://arxiv.org/abs/2508.09736)
 - 2025-11-14 [VisMem: Latent Vision Memory Unlocks Potential of Vision-Language Models](http://arxiv.org/abs/2511.11007)
 - 2025-12-03 [MemVerse: Multimodal Memory for Lifelong Learning Agents](http://arxiv.org/abs/2512.03627)
